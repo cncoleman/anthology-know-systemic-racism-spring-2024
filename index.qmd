@@ -12,7 +12,7 @@ format:
     template-partials: 
       - template/title-block.html
 # do not edit ends
-title: "Reframing Police Militarization in California"
+title: "Know Systemic Racism/Know More Names"
 session: "Spring 2024"
 image: "data/imgs/police.jpeg"
 project-members: 
