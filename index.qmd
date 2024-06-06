@@ -15,16 +15,24 @@ format:
 title: "Reframing Police Militarization in California"
 session: "Spring 2024"
 image: "data/imgs/police.jpeg"
-project-members:
+project-members: 
+  - name: Catherine Nicole Coleman 
+    designation: Research Director, Humanities + Design
+    orcid: 0000-0002-3360-1975
+  - name: Felicia Smith 
+    designation: Racial Justice and Social Equity Librarian
+    orcid: 0000-0003-3649-8202
   - name: Shuvi Jha
-    designation: Technical Research Intern, Winter and Spring Quarter 
-  - name: Catherine Nicole Coleman
-    designation: Digital Research Architect, Stanford University Libraries
+    designation: Research Intern - Spring, 2023
+    orcid:
 
-project-description: "My project focuses on the increasingly common practice of using military equipment by law enforcement agencies in California, as seen against the backdrop of events like the War on Drugs and post-9/11 security policies. By documenting the types and frequency of military-grade equipment such as drones, flashbangs, and armored vehicles through the lens of CS AB481, my research highlights the dissonance between manufacturers' descriptions and the equipment's impact on communities. Alongside my mentor Nicole, I introduced a 'Civilian Description' category, which includes direct accounts from those affected by police militarization, providing a fuller picture of its consequences. This effort aims to challenge the prevailing narrative, shed light on the emotional and social impacts on BIPOC communities, and foster a more engaged and informed public dialogue on the militarization of our police forces."
+project-description: "Know Systemic Racism/Know More Names is a collaboration between Know Systemic Racism led by Felicia Smith, Racial Justice and social equity librarian at Stanford, and the CESTA lab Humanities + Design. The goal of the project is to design tools grounded in library practices to critically assess and undermine the racism that has been built into our social, political, technological systems. The work is guided by three core principles of Know Systemic Racism: Show interconnections; humanize the harm; communicate with the public. In Spring 2024, Research Intern Shuvi Jha contributed to a project developed in collaboration with the American Friends Service Committee to bring personal experience to the categorization and description that defines military equipment used by California law enforcement."
+
+author-contributions:
+
 
 ---
-# Project Overview
+# Reframing Police Militarization in California
 :::{.article-author}
 Shuvi Jha
 :::
